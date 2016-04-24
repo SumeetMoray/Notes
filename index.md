@@ -1,1 +1,41 @@
-#Site Index
+    ##Site Index
+
+    - Android Resources
+    
+    
+About Me and About this Site:
+	  
+- Why Notes?
+
+#BookMarks Section: 
+Android Resources(Non-UI):
+Android Resources(UI): 
+Links/ Resources: 
+
+Food, Recipies and Cooking
+
+Articles Index: 
+
+Saving Costs on Hosting: Setting up Static Websites
+	- Benefits and Advantages
+	- Links and Resources
+
+
+Interesting Links(For Curiosity) : 
+- ForktheCookBook
+- 
+
+::Upcoming Trends (Industry) :
+
+
+Gradle Commands 
+Git Commands
+Terminal Commands
+
+Application Case Studies(Technology Stack Used):
+AirBnB
+Barack Obama Funding Website
+HealthCare.gov
+
+Book Reviews and Suggestions
+- 
