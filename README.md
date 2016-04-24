@@ -1,4 +1,4 @@
-# Sumeets Notes
+# Notes
 Static site for my Notes.
 
 Hi, Welcome !
