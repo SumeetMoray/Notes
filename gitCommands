@@ -6,6 +6,7 @@ git init - initialize the empty git repository - Initialize the current director
 git remote - list all the current remotes - See all the current remotes
 
 git remote add origin [repo-URL] - 
+git remote add [localName] [repo-URL] - Add a remote repository and assigns it a userFriendly name. After adding the remote repository you can check or verify addition by typing "git remote" to list all the current remotes.
 
 git remote -v - (-v stands for verbose) outputs the current repository in verbose format. In simple terms it provides more information about the current remotes. 
 
