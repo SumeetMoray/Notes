@@ -1,0 +1,37 @@
+Git Commands and Notes
+
+
+
+git init - initialize the empty git repository - Initialize the current directory as 			the git repository. 
+
+
+
+
+
+:: working with remote repositories and collabration
+git remote - list all the current remotes - See all the current remotes
+
+git remote add origin [repo-URL] - 
+git remote add [localName] [repo-URL] - Add a remote repository and assigns it a userFriendly name. After adding the remote repository you can check or verify addition by typing "git remote" to list all the current remotes.
+
+git remote -v - (-v stands for verbose) outputs the current repository in verbose format. In simple terms it provides more information about the current remotes. 
+
+git push origin master - 
+git push [remote name] [branch name] - pushes the current branch of the local git repo to the remote repository stored as remote. 
+
+
+git clone [repo-URL] [optional: DirectoryName] - clones the git repository on the github in the local directory.
+
+:: Case of different changes done by different people on the same repository. 
+git pull origin master 
+[ is equal to ]
+git fetch origin
+git merge master origin/master
+
+when the fetch origin is executed the files form the remote repository is pulled into local repository in the branch origin/master. 
+After you execute merge master origin/master the changes in the origin/master is merged into local master branch. 
+
+This way two different people working on the same repository can contribute. 
+
+git add [filename] - add the file to the staging area
+git add . - add all the files into the staging area

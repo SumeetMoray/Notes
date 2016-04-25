@@ -1,0 +1,37 @@
+Lists - ItemList (2 Tables required for this - ItemList(EntityTable) and
+		ListItem(Relationship Table)
+
+Favourites - FavouriteShop
+Reviews - ItemReview, ShopReview
+Ratings - ShopRating, ItemRating
+Comment(OnReview) - Comments on Reviews, Comments on Comments
+Likes / Upvotes / FindUseful- Likes For Reviews, 
+Dislikes / Downvotes - For the Review
+
+
+::Features to Implement
+
+::Entities
+
+EndUser
+Order [Item,EndUser,Shop]
+OrderItem
+
+ItemCategory
+Item
+ShopItem
+Shop
+Distributor
+
+
+:: Order Status
+Placed / Waiting for approval
+Confirmed / Approved
+Packed
+Out for Delivery
+Payment Recieved
+ItemDelivered
+
+
+
+

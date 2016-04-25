@@ -1,12 +1,65 @@
-concept/ concept-Implementations:
+
+:: Projects Incubator
+- Counsellor Forums
+- Blog/ Site Application
+- Free Dating Site/App (InterestsKeywords)
+- Nearby Shops and Services
+	- Delivery Service
+	- Service Discovery Service
+	- Database Builder Service
+	- Nearby Shops Service
+
+- Local Area Services Directory (LASD)
+- Community Library
+- Vehicle Pooling Service
+- Home Automation Utilities
+- Water Cycle Air Conditioner (Prototype Version)
+- Home Electricity Bill Regulator (Smart Grids)
 
 
-Projects
+:: Offloading Project Ideas: I dont indend to build
+
+- Smart Phone [Open-Source] (Prototype Version)
+- Tablet [Open-Source] (Prototype Version)
+- Washing Machine [Open-Source] [With Standard Device Computer Interface] (Prototype Version)
+- Air Conditioner [Open-Source] [With Standard Device Computer Interface] (Prototype Version)
 
 
-:: Projects (Offload Ideas to others)
+:: TO DO's
+- Migerate to IDeaJ
+- change dependencies to jetty and restlet
+- setup public and private repos at Bitbucket
+- Secure IDs with Axcrypt
+- resolve Postgres DigitalOcean
+- Setup Notes Site and Products Site:
+- setup images with AWS
+
+:: TO Do's For future
+- NB web App
 
 
+
+
+::CurrentInLearning
+- VCS
+- BuildTools : Gradle 
+- Ideantification and Approval - OAuth
+
+- DI- Dagger 2
+- DataBinding Android
+- ORMTools
+- Content Provider Library - Schematic/SimonVT
+
+- Markdown
+- Jekyll
+- HTML/CSS-Javascript
+- AngularJS 2
+- AngularJS2-CSSLibrary
+
+
+::Concept Map
+
+::Concept/ concept-Implementations:
 
 Data Structures
 Design Patterns
@@ -40,10 +93,8 @@ JSON Parsing
 RESTClient(For Development and Testing) - PostMan
 HTTP / REST Client - Volley, retrofit, okhttp
 
-
 Data binding - data binding library android
 Reactive programming
-
 
 SharedPrefs
 Files
@@ -57,21 +108,54 @@ Loaders
 Cursor Adapter
 Intent Services
 
-
-Libraries:
+Libraries: (Non-UI)
 ContentProvider SimonVT
-Dagger-2
 ButterKnife
 Data Binding Library
 Picasso/ Glide
 Android Support Libraries
 Retrofit, OK-Http, Volley
 GSON Converter
+Dagger-2
 
 
 LInks:
 android-developers.blogspot.com
 Android-Arsenal
+
+Tutorial Resources / Links : 
+codepath Guides
+Jenkov tutorials
+grokking android blog
+Java Brains Youtube Channel
+Android Hive
+BigNerdRanchGuide
+
+VedioTutorials:
+Udacity
+
+Books:
+HeadFirstJava
+OCP/JP Java
+
+
+Services : 
+Digital Ocean
+Linode 
+AWS - BeanStalk, RDS, S3, CloudFront
+MAPBox
+Firebase
+
+
+Application Case Studies(Technology Stack Used): 
+AirBnB : Link
+
+
+
+
+Useful : (Not required to be mentioned, Because you can use them from google)
+Quora
+StackOverflow
 
 staticWebsites: 
 hosting on gh-pages

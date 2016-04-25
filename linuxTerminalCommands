@@ -9,17 +9,17 @@ Linux terminal Commands
 - scp 
 - ssh root@IP 
 - mkdir
-- ./fileName.sh
+- ./fileName.sh - executes the given program
+- ls - show contents of current directory
+- ls -a - [-a] show the hidden files and directories also
 - pwd (print working directory) - tells the current directory name
 
 - whoami - tells the name of the current log
 
-Home Directory 
-Root Directory
+Home Directory : ~
+Root Directory : /
 
 
 copy file to remote server:
 scp -r /path/to/my/files root@0.0.0.0:/path/on/remote/droplet
-
-
 
