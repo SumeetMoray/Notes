@@ -1,0 +1,76 @@
+concept/ concept-Implementations:
+
+Data Structures
+Design Patterns
+
+Command Line - Linux Terminal commands
+*VCS - git,
+VCS Services -  github, bitbucket
+*Build Tools - Gradle , Maven , Ant
+COntinuous integration - jenkins
+*Cloud Hosting - Amazon AWS, Open Stack 
+*Testing - junit
+*Identification and Approval - OAuth, google sign-in | Computer Security Concepts
+*Location
+*Maps
+*Dependency Injection - dagger 2, spring
+
+IDEs - IntellijIDEA, Eclipse
+
+:: Persistant Storage
+RDBMS - POSTgresQL, derby, mysql, SQLite
+ORM(Object Relational mapping) Tools - hibernate
+
+:: Generation of JSON API's
+Jax-RS REST API - Jersey, RestLet
+HTTP
+*HTTp Server - Jetty, grizly
+
+:: Consuming JSON API's
+GSON Converter
+JSON Parsing
+RESTClient(For Development and Testing) - PostMan
+HTTP / REST Client - Volley, retrofit, okhttp
+
+
+Data binding - data binding library android
+Reactive programming
+
+
+SharedPrefs
+Files
+SQLiteDatabase
+DBHelper
+Data Access Classes (DAOs)
+ContentProviders
+ContentProviderLibraries
+Sync Adapter
+Loaders
+Cursor Adapter
+Intent Services
+
+
+Libraries:
+ContentProvider SimonVT
+Dagger-2
+ButterKnife
+Data Binding Library
+Picasso/ Glide
+Android Support Libraries
+Retrofit, OK-Http, Volley
+GSON Converter
+
+
+LInks:
+android-developers.blogspot.com
+Android-Arsenal
+
+staticWebsites: 
+hosting on gh-pages
+hosting on s3
+
+WebResources:
+builtwith.com
+
+ForumSoftware: 
+Discource Forums , Example : Udacity, twittercommunity

@@ -1,0 +1,124 @@
+Adapter
+RecyclerView
+ViewHolder
+ItemDecorator and (ItemAnimator)
+LayoutManager
+
+Multiple View Type - RecyclerView/ List/Grid with Multiple ItemTypes
+SwipeRefreshLayout
+ContextMenu-List/GridViewItem-MenuOverflow
+List/Grid FormatChanger
+displayMetrics - Recycler VIew spanCount change with width / Configuration Change
+Image Color Extraction - Dynamic Item Color
+ListItemSelection
+
+SectionedExpandableGridRecyclerView- For Putting Shops and Items on the same Page
+	- Good for displaying Lists/Grids with Items with multiple types which needs 
+		to be displayed divided into Sections
+
+Staggered Grid layout - SeenFrom Airbnb and MaterialDesignSpec in ToolTips
+
+CardView
+
+ThemeColorSelection - Primary Color and AccentColor - Example: Phonograph App
+
+SnackBars
+Toasts
+
+ShareActions- (Share Action Provider)
+Menus
+Notifications
+
+Parallax Effect
+
+ImageColorExtraction-Color Palettle Changer - PaletteLibrary
+StatusBarColor
+
+NavigationDrawer
+Sliding Layer - Generally Used for Sliding and Sorting
+BottomSheets
+
+Toolbar
+Collapsing ToolbarLayout
+AppBarLayout
+CoordinatorLayout
+ScrollFlags - ContentScrim
+ParallexScrolling ImageView
+
+ViewPager
+Fragment
+Activity
+
+ImageViews
+TextView
+Buttons
+CheckBoxes,Switches
+RadioButtons
+RadioGroups
+EditText
+Bars,Sliders
+Pickers - DatePickers, ColorPickers
+ProgressBars
+Dialogs
+
+Weights
+LayoutGravity
+Gravity
+Margin
+Padding
+LinearLayout
+RelativeLayout
+ScrollView
+NestedScrollView
+
+Welcome Screen - Introduction
+UI- Tutorial - IntroTutorial
+UP- Navigation
+Back- Navigation
+
+MapItemsBrowser- FourSquare
+
+Sort and Filter - Example: Expedia Sort and Filter List (Filtering by inputText)
+
+MaterialRippleEffect
+Vector Drawables
+
+
+Image Editing - GIMP, Photoshop
+Vector Image Editing - Inkscape, Adobe Illustrator
+Icons/ Logo Editing
+Illustrations and InfoGraphics
+Sketches
+
+
+User Interface Libraries:
+MaterialScrollBar
+MaterialIntro
+Tutorial
+FAB Library
+RangeBarLibrary
+ParallaxEveryWhere
+BlurredGridMenu
+AndroidTreeView
+SectionedExpandableGridRecyclerVIew
+
+Resources:
+MaterialDesignIcons
+materialPalette.com
+Public Domain Images / Free Illustrations
+
+Links:
+MaterialDesignSpec
+design.google.com
+
+AppExamples:
+FourSquare
+AirBnb
+GoogleDrive
+Google Keep
+Phonograph- MusicPlayer
+Expedia
+Stay
+AmazeFileManager
+KitchenStories(For beautiful Graphics)
+Fabulous

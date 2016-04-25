@@ -1,0 +1,25 @@
+Linux terminal Commands
+
+- sudo - super user permissions
+- sudo apt-get install 
+- cd ~ - change Directory to Home Directory
+- cd ..
+- cd .
+- cd /
+- scp 
+- ssh root@IP 
+- mkdir
+- ./fileName.sh
+- pwd (print working directory) - tells the current directory name
+
+- whoami - tells the name of the current log
+
+Home Directory 
+Root Directory
+
+
+copy file to remote server:
+scp -r /path/to/my/files root@0.0.0.0:/path/on/remote/droplet
+
+
+

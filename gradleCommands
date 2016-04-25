@@ -1,0 +1,25 @@
+Gradle Commands
+
+- ./gradlew : for using the gradle wrapper - downloads the gradle version if the version is not available 
+- gradle tasks -all : lists all the tasks available for given build directory
+- gradle init : task for initialize the empty directory with gradle build files
+- gradle wrapper : task for creating the wrapper
+- gradle clean : task which deletes the build folder
+- gradle --daemon : starts the daemon which makes the subsequent builds faster
+- gradle tasks - Lists all the tasks in the gradle buildscript and general tasks
+- q, -i - Logging level specifiers
+- gradle -version
+
+
+- gradle -b solution.gradle tasks : use alternate build file (not named build.gradle)
+
+
+
+
+
+
+Gradle wrapper
+- in order to ensure that people use the same gradle version for building the project
+
+UP-TO-DATE
+for tasks which are already completed and there is no change in inputs and outputs. The tasks doesnt need to be run again. And hence marked as up to date. 
