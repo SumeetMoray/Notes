@@ -4,7 +4,7 @@
 - Blog/ Site Application
 - Free Dating Site/App (InterestsKeywords)
 - Nearby Shops and Services
-	- Delivery Service
+	- Delivery Service (Nearby Delivery Service)
 	- Service Discovery Service
 	- Database Builder Service
 	- Nearby Shops Service
@@ -55,6 +55,10 @@
 - HTML/CSS-Javascript
 - AngularJS 2
 - AngularJS2-CSSLibrary
+
+::LearningFuture
+- JUnit
+
 
 
 ::Concept Map
@@ -137,6 +141,7 @@ Udacity
 Books:
 HeadFirstJava
 OCP/JP Java
+HeadFirstDesignPatters
 
 
 Services : 
@@ -149,8 +154,8 @@ Firebase
 
 Application Case Studies(Technology Stack Used): 
 AirBnB : Link
-
-
+healthCare.gov
+BarackObamaDonationsPortal
 
 
 Useful : (Not required to be mentioned, Because you can use them from google)

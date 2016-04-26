@@ -31,3 +31,8 @@ execute gradle wrapper in the working directory
 - ./gradlew - using the wrapper instead of using the local gradle installation
 
 downloads the gradle version for the wrapper if that gradle version is already not downloaded.
+
+Wrapper Creates the four files: 
+gradlew gradlew.bat 
+And 
+gradle-wrapper.jar gradle-wrapper.properties inside the gradle directory. 
