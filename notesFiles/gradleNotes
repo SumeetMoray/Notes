@@ -1,5 +1,17 @@
 Gradle Commands
 
+
+:: multidex Enabled
+multiDexEnabled true - allows multi dex allowing app to cross the limit of 65000 methods
+
+
+:: declaring dependencies
+compile filetree(dir: "libs", include: ["*.jar"]) - include files in the directory as a dependency
+compile project(':JavaJokes') - include sub project "JavaJokes" as a dependency
+
+
+- gradle | ./gradlew projects - tells the subprojects available in the multi project build
+
 - ./gradlew : for using the gradle wrapper - downloads the gradle version if the version is not available 
 - gradle tasks -all : lists all the tasks available for given build directory
 - gradle init : task for initialize the empty directory with gradle build files
