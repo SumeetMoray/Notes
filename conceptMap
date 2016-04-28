@@ -112,6 +112,9 @@ Loaders
 Cursor Adapter
 Intent Services
 
+Relative URL's and Absolute URL's
+
+
 Libraries: (Non-UI)
 ContentProvider SimonVT
 ButterKnife

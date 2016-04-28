@@ -1,5 +1,0 @@
-Hello hi, 
-
-this file is created and added on github. Doing this in order to test the pull command. 
-
-
