@@ -1,12 +1,14 @@
 Linux terminal Commands
 
+- export PATH= "directory-to-export-path: $PATH"
+- echo $PATH - gives the path
 - sudo - super user permissions
 - sudo apt-get install 
 - cd ~ - change Directory to Home Directory
 - cd ..
 - cd .
 - cd /
-- scp 
+- scp 	
 - ssh root@IP 
 - mkdir
 - ./fileName.sh - executes the given program

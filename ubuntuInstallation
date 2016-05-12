@@ -1,8 +1,20 @@
 Ubuntu Installation Routine
 
-- setup Auto Mount
+- setup Auto Mount : Using "sudo gnome-disks" - GUI tool that can set auto mount
+- after setting auto mount using 'gnome-disks' you need to regain the ownership of the internal drive/partition for this type:
+sudo chown username:username path-of-disk-mount [-R]
+	-R tells to apply this recursively so that all the folders and subfolders get owned by the user
+
+for Example: if username is sumeet and disk is mounted on /media/sumeet/linuxDevelopment then type
+
+sudo chown sumeet:sumeet /media/sumeet/linuxDevelopment
+
+- 64 bit libs
 - JDK installation : PPA repository
 - Development Folder Backup : [includes Android Studio SDK]
+
+
+- Android Studio Ubuntu installation required installation of 64 bit libs : see android studio, linux installation guide
 
 
 :: Softwares for Installation
@@ -20,4 +32,3 @@ RemixOS
 NexusRootToolkit
 SpiceAndoridOneRootKit
 Softwares
-

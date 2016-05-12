@@ -1,24 +1,31 @@
 
 :: Projects Incubator
+
+- ERAS(EducationalResearch and Assessment Service)
+
 - Counsellor Forums
-- Blog/ Site Application
-- Free Dating Site/App (InterestsKeywords)
+- Personal Blog/Site Application
+- Product Blog/ Site Application
+- Nearby dating App: Free Dating Site/App (InterestsKeywords): 
 - Nearby Shops and Services
 	- Delivery Service (Nearby Delivery Service)
 	- Service Discovery Service
-	- Database Builder Service
+	- Database Builder Service | Stats and Analysis
 	- Nearby Shops Service
+	- Identification and ApprovalService
+	- WebApp, ChromeApp, AndroidApp, WindowsApp, i-os App
 
+- Identification and Approval Service
 - Local Area Services Directory (LASD)
 - Community Library
 - Vehicle Pooling Service
-- Home Automation Utilities
+- Home Automation - (Standard Device Computer Interfaces)
 - Water Cycle Air Conditioner (Prototype Version)
 - Home Electricity Bill Regulator (Smart Grids)
 
 
 :: Offloading Project Ideas: I dont indend to build
-
+	
 - Smart Phone [Open-Source] (Prototype Version)
 - Tablet [Open-Source] (Prototype Version)
 - Washing Machine [Open-Source] [With Standard Device Computer Interface] (Prototype Version)
@@ -69,13 +76,13 @@ Data Structures
 Design Patterns
 
 Command Line - Linux Terminal commands
+*Identification and Approval - OAuth, google sign-in | Computer Security Concepts
+*Build Tools - Gradle , Maven , Ant
 *VCS - git,
 VCS Services -  github, bitbucket
-*Build Tools - Gradle , Maven , Ant
+*Testing - junit
 COntinuous integration - jenkins
 *Cloud Hosting - Amazon AWS, Open Stack 
-*Testing - junit
-*Identification and Approval - OAuth, google sign-in | Computer Security Concepts
 *Location
 *Maps
 *Dependency Injection - dagger 2, spring
@@ -130,21 +137,6 @@ LInks:
 android-developers.blogspot.com
 Android-Arsenal
 
-Tutorial Resources / Links : 
-codepath Guides
-Jenkov tutorials
-grokking android blog
-Java Brains Youtube Channel
-Android Hive
-BigNerdRanchGuide
-
-VedioTutorials:
-Udacity
-
-Books:
-HeadFirstJava
-OCP/JP Java
-HeadFirstDesignPatters
 
 
 Services : 

@@ -1,0 +1,31 @@
+static class or an instance class
+
+if we have a method, which does not read from any instance varialbes and does not write to any instance variables. We say this method does not have any relationship with the class instance. 
+
+In this situation, we say we make the method static. Such a method will be static.
+
+
+
+
+
+
+Model/POJO Classes
+Contract Classes
+DAOs (Data access Objects)
+REST Resource Classes (Interface Classes)
+User Interface Classes
+
+
+ORMs(Object Relationship Mapping) Tools
+Database
+DependencyInjectionTools
+Rx-Android - 
+RestHttpClients
+ImageLoadingNCachingLibraries
+DataBinding
+ViewBinding-ButterKnifeInjectors
+
+
+BuildTools
+
+
